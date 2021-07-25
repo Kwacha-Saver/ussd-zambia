@@ -1,2 +1,7 @@
-# ussd-zambia
-USSD Short Codes for Zambia
+# USSD Short Codes for Zambia
+
+## Airtel
+
+## MTN
+
+## Zamtel
