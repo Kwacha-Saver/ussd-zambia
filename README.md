@@ -4,8 +4,6 @@
 
 ## MTN
 
-<div>
-<a href="https://raw.githubusercontent.com/Kwacha-Saver/ussd-zambia/master/MTN.vcf">Download as vCard</a>
-</div>
-  
+<a href="https://raw.githubusercontent.com/Kwacha-Saver/ussd-zambia/master/MTN.vcf">Download as vCard</a>  
+
 ## Zamtel
