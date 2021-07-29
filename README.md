@@ -1,4 +1,4 @@
-<a href="https://kwacha.webflow.io?from=github.com" target="_blank" alt="Kwacha Saver 🇿🇲"><img src="https://kwacha.vejnoe.dk/kwacha-saver-github"></a>
+<a href="https://kwacha.webflow.io?from=github.com" target="_blank" alt="Kwacha Saver 🇿🇲"><img src="https://kwacha.vejnoe.dk/kwacha-saver-github.svg"></a>
 
 # USSD Short Codes for Zambia 🇿🇲
 
