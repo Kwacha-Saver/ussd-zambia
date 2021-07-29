@@ -19,7 +19,7 @@
 
 ``*303#``  MTN Mobile Money (MoMo)
 
-[Download as vCard](https://kwacha.vejnoe.dk/ussd/MTN.vcf)  
+<a href="https://kwacha.vejnoe.dk/ussd/MTN.vcf" target="_blank"><img src="https://kwacha.vejnoe.dk/ussd/mtn-vcard-download-button.png" width="377"></a>
 
 ## Airtel
 
