@@ -1,4 +1,4 @@
-# USSD Short Codes for Zambia
+# USSD Short Codes for Zambia 🇿🇲
 
 [Read more on Kwacha Saver](https://kwacha.webflow.io)
 
